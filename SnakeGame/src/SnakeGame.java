@@ -15,6 +15,7 @@ import java.util.ArrayList;
  * @Description:
  */
 public class SnakeGame {
+ //游戏入口
  public static void main(String[]args){
   SnakeFrame frame=new SnakeFrame();
   frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
