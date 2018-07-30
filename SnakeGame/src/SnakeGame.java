@@ -89,9 +89,9 @@ class Snake {
  ArrayList<Node> body;//蛇体
  Node food;//食物
  int derection;//方向
- int score;
- int status;
- int speed;
+ int score;//分数
+ int status;//状态
+ int speed;//速度
  public static final int SLOW = 500;
  public static final int MID = 300;
  public static final int FAST = 100;
